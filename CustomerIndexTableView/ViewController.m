@@ -26,6 +26,9 @@
     [self.view addSubview:self.tableView];
     [self.view addSubview:self.indexView];
     [self createIndexAttribute];
+    
+    // 在 version2 分支上的修改
+    NSLog(@"这是在 version2 上的修改");
 }
 
 
