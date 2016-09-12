@@ -29,6 +29,9 @@
     
     // 在 version2 分支上的修改
     NSLog(@"这是在 version2 上的修改");
+    
+    // 在 version2 分支上的修改2
+    NSLog(@"这是在 version2 上的修改2");
 }
 
 
